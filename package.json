@@ -1,0 +1,12 @@
+{
+    "name": "carantine-flow",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_turtle.json",
+            "credentialsFile": "flows_turtle_cred.json"
+        }
+    }
+}
